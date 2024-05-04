@@ -1,9 +1,8 @@
 <h2 align="left">Hi 👋! My name is Huzair and I'm a Front-End Developer.</h2>
-
+<br clear="both">
 <img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 ###
-
 <div align="left">
  <h3 align="left" display="inline-block"><img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="25"/> My Skills:</h3> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
@@ -16,7 +15,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="12" />
-
+<br>
 </div>
 
 ###
@@ -32,15 +31,15 @@
   <a href="https://www.instagram.com/huzair.16/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
- 
+
 </div>
 
 ###
-
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216654141-4aa6ba4c-aa36-481a-bb65-56ee85d87de3.gif" height="32"/> My Stats :</h3>
+<br clear="both">
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216654141-4aa6ba4c-aa36-481a-bb65-56ee85d87de3.gif" height="32"/> My Stats:</h3>
 
 ###
-<br clear="both">
+
 
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
 
