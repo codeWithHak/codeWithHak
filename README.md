@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm Huzair, A Full Stack Agentic AI Developer</h2>
 <br clear="both">
-<img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+<img align="right" height="360" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
 ###
 <div align="left">
@@ -20,6 +20,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="35" alt="typescript logo"  />
   <img width="12" />
  <br>
+ <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  />
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
@@ -35,6 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="12" />
+  <br>
   <br>
 </div>
 
@@ -58,16 +60,20 @@
 <br clear="both">
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216654141-4aa6ba4c-aa36-481a-bb65-56ee85d87de3.gif" height="32"/> My Stats:</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=codeWithHak&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=codeWithHak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codeWithHak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages" />
 </div>
+
+
 
 ###
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeWithHak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codeWithHak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=codeWithHak&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&timezone=Asia%2FKarachi&cache_seconds=1800" height="220" alt="streak" />
+</div>
 </div>
 
 ###
