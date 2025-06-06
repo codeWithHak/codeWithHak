@@ -1,11 +1,11 @@
-<h2 align="left">Hi 👋! I'm Huzair, A Full Stack Agentic AI Developer</h2>
+<h2 align="left">Hi 👋! I'm Huzair, A Full Stack Agentic AI Developer.</h2>
 <br clear="both">
 <img align="right" height="360" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
 ###
 <div align="left">
  <h3 align="left" display="inline-block"><img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="25"/> My Skills:</h3> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="35" alt="nextjs logo"  />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="35" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="35" alt="nextjs logo"  />
   <img width="12" />
@@ -23,11 +23,11 @@
  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="35" alt="react logo"  />
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="35" alt="javascript logo"  />
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
@@ -45,13 +45,16 @@
 <div align="left">
    <h3 align="left" display="inline-block"><img src="https://user-images.githubusercontent.com/74038190/216658099-d7c8efef-4e2f-4cdb-8d4d-977a02bee0bc.gif" height="25"/> My Socials:</h3>
   <a href="https://www.linkedin.com/in/huzair-ahmed-khan-b95296248/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="45" alt="linkedin logo" />
+  </a>
+   <a href="https://www.youtube.com/@huzairahmedkhan650" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" height="45" alt="instagram logo" />
   </a>
   <a href="https://discord.gg/d95ymp66" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height="45" alt="discord logo" />
   </a>
   <a href="https://www.instagram.com/huzair.16/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="45" alt="instagram logo" />
   </a>
 
 </div>
